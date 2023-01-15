@@ -1,0 +1,10 @@
+{
+    "discord.enabled": false,
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascript",
+        "*.css": "css",
+        "*.tcc": "cpp",
+        "limits": "cpp"
+    }
+}
